@@ -39,7 +39,7 @@ def bWFpbg():
         print(f"RW5jcnlwdGVk dGV4dA= d3JpdHRlbg== dG8= {b3V0cHV0X2ZpbGU}")
 
     except FileNotFoundError:
-        print(f"RXJyb3I=: VGhl ZmlsZQ== {aW5wdXRfZmlsZQ} d2Fz bm90 Zm91bmQu")
+        print(f"RXJyb3I6 VGhl ZmlsZQ== {aW5wdXRfZmlsZQ} d2Fz bm90 Zm91bmQu")
     except Exception as ZQ:
         print(f"QW4= ZXJyb3I= b2NjdXJyZWQ6 {ZQ}")
 
