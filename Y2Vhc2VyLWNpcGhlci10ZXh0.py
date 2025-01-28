@@ -9,7 +9,6 @@ def Y2Flc2FyX2NpcGhlcg(dGV4dA, c2hpZnQ):
                 c3RhcnQ = 65  
             else: 
                 c3RhcnQ = 97
-            print(c3RhcnQ)
             cmVzdWx0 += chr((ord(Y2hhcg) - c3RhcnQ + c2hpZnQ) % 26 + c3RhcnQ)
 
         elif Y2hhcg in dW5jaGFuZ2VkX2NoYXJz:
